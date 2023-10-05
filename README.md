@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Maja Markovic</h1>
-<h3 align="center">Junior Software Developer from Novi Sad</h3>
+<h3 align="center">Web Developer from Novi Sad</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
@@ -9,6 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mycode014&label=Profile%20views&color=0e75b6&style=flat" alt="mycode014" /> </p>
 
 - Experiences [ComData](Frontend(Angular, React))
+- Experiences [Loads King d.o.o.](Full stack developer(React, React Native, NodeJS, MySQL))
 
 - 📫 How to reach me **majamarkovic.b@gmail.com**
 
